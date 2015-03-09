@@ -31,7 +31,7 @@ namespace Spaceship
         {
             for(int i = 0; i < 10; i++)
             {
-                space[i] = new Spaceship(4, rnd.Next(51, 200));
+                space[i] = new Spaceship(4, rnd.Next(51, 200), 100);
             }
         }
     }
