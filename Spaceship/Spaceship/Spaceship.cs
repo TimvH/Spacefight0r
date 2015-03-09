@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Spaceship
 {
+    // hai
     class Spaceship
     {
         protected int engines;
