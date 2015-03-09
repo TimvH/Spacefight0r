@@ -24,5 +24,10 @@ namespace Spaceship
         {
             return amount;
         }
+
+        public void SetMoney(int amount)
+        {
+            this.amount = amount;
+        }
     }
 }

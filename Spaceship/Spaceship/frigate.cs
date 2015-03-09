@@ -8,9 +8,13 @@ namespace Spaceship
 {
     class Frigate
     {
+        private int health;
+        private int dmg;
+
         public Frigate()
         {
-
+            health = 30;
+            dmg = 10;
         }
     }
 }

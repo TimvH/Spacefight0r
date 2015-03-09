@@ -8,9 +8,13 @@ namespace Spaceship
 {
     class Destroyer
     {
+        private int health;
+        private int dmg;
+
         public Destroyer()
         {
-
+            health = 50;
+            dmg = 30;
         }
     }
 }
