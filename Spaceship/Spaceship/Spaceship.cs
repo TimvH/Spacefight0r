@@ -13,6 +13,7 @@ namespace Spaceship
         protected bool isDocked;
         protected int fuelTankSize;
 
+        Wallet wallet = new Wallet();
         public Spaceship()
         {
             engines = 4;
