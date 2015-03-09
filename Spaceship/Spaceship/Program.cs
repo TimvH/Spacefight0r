@@ -15,8 +15,10 @@ namespace Spaceship
         {
             do
             {
-               // code
+                Console.WriteLine("You suck");
+                player.SetHealth(0);
             } while (player.GetHealth() > 0);
+            Console.ReadKey();
         }
     }
 }

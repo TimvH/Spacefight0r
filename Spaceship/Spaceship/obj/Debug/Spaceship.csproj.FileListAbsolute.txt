@@ -17,3 +17,6 @@ C:\Users\Thijmen\Documents\Spacefight0r\Spaceship\Spaceship\bin\Debug\Spaceship.
 C:\Users\Thijmen\Documents\Spacefight0r\Spaceship\Spaceship\obj\Debug\Spaceship.csprojResolveAssemblyReference.cache
 >>>>>>> origin/master
 >>>>>>> 6c5a931ead7b6077d1fb454af2df2125d1a87246
+C:\Users\Tim\Documents\Projects\Spacefight0r\Spaceship\Spaceship\bin\Debug\Spaceship.exe
+C:\Users\Tim\Documents\Projects\Spacefight0r\Spaceship\Spaceship\bin\Debug\Spaceship.pdb
+C:\Users\Tim\Documents\Projects\Spacefight0r\Spaceship\Spaceship\obj\Debug\Spaceship.csprojResolveAssemblyReference.cache
