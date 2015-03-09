@@ -50,6 +50,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Spaceship.cs" />
     <Compile Include="Spacestation.cs" />
+    <Compile Include="Storagestation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
