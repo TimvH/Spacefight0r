@@ -51,6 +51,7 @@
     <Compile Include="Spaceship.cs" />
     <Compile Include="Spacestation.cs" />
     <Compile Include="Storagestation.cs" />
+    <Compile Include="Wallet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

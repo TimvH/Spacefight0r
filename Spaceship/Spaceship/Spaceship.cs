@@ -9,6 +9,8 @@ namespace Spaceship
     // hai
     class Spaceship
     {
+        Wallet wallet = new Wallet(1000);
+
         protected int engines;
         protected int fuel;
         protected bool isDocked;
