@@ -8,31 +8,15 @@ namespace Spaceship
 {
     class Program
     {
-        static Random rnd = new Random();
-        static Spaceship[] space = new Spaceship[10];
+        Random rnd = new Random();
+        static Spaceship player = new Spaceship();
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to shipflyer V1.0");
-
-            Console.WriteLine("Initializing 10 ships.");
-            InitShip();
-            for (int i = 0; i < 10; i++)
+            do
             {
-                space[i].Move();
-                Console.WriteLine("Moved spaceship {0}", i);
-                Console.WriteLine("Spaceship {0} now has {1} fuel.", i, space[i].GetFuel());
-            }
-
-            Console.ReadKey();
-        }
-
-        public static void InitShip()
-        {
-            for(int i = 0; i < 10; i++)
-            {
-                space[i] = new Spaceship(4, rnd.Next(51, 200), 100);
-            }
+               // code
+            } while (player.GetHealth() > 0);
         }
     }
 }

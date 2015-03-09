@@ -29,5 +29,10 @@ namespace Spaceship
         {
             this.amount = amount;
         }
+
+        public void TakeMoney(int amount)
+        {
+            this.amount = this.amount - amount;
+        }
     }
 }
