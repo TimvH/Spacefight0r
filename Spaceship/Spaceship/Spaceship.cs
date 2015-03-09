@@ -11,6 +11,7 @@ namespace Spaceship
         protected int engines;
         protected int fuel;
 
+        Wallet wallet = new Wallet();
         public Spaceship()
         {
             engines = 4;
