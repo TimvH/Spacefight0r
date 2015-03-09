@@ -8,5 +8,9 @@ namespace Spaceship
 {
     class Destroyer
     {
+        public Destroyer()
+        {
+
+        }
     }
 }
