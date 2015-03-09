@@ -8,5 +8,21 @@ namespace Spaceship
 {
     class Wallet
     {
+        private int amount;
+
+        public Wallet()
+        {
+
+        }
+
+        public Wallet(int money)
+        {
+            amount = money;
+        }
+
+        public int GetMoney()
+        {
+            return amount;
+        }
     }
 }
