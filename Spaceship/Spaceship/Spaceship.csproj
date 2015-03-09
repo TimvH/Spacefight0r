@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Cargoship.cs" />
     <Compile Include="Fighter.cs" />
+    <Compile Include="frigate.cs" />
     <Compile Include="Fuelstation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

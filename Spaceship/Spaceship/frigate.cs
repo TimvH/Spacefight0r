@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace Spaceship
 {
-    class Frigate : Enemy
+    class Frigate
     {
-        public Frigate()
-        {
-
-        }
-
         public Frigate()
         {
 
